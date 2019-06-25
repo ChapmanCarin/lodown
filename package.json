@@ -1,0 +1,22 @@
+{
+  "name": "lodown-chapmancarin",
+  "version": "1.0.2",
+  "description": "My own npm library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChapmanCarin/lodown.git"
+  },
+  "author": "Carin Chapman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChapmanCarin/lodown/issues"
+  },
+  "homepage": "https://github.com/ChapmanCarin/lodown#readme"
+}
